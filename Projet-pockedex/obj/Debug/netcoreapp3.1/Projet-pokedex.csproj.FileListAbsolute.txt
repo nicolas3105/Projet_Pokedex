@@ -1,0 +1,13 @@
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/bin/Debug/netcoreapp3.1/Projet-pokedex.deps.json
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/bin/Debug/netcoreapp3.1/Projet-pokedex.runtimeconfig.json
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/bin/Debug/netcoreapp3.1/Projet-pokedex.runtimeconfig.dev.json
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/bin/Debug/netcoreapp3.1/Projet-pokedex.dll
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/bin/Debug/netcoreapp3.1/Projet-pokedex.pdb
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/obj/Debug/netcoreapp3.1/Projet-pokedex.csproj.AssemblyReference.cache
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/obj/Debug/netcoreapp3.1/Projet-pokedex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/obj/Debug/netcoreapp3.1/Projet-pokedex.AssemblyInfoInputs.cache
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/obj/Debug/netcoreapp3.1/Projet-pokedex.AssemblyInfo.cs
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/obj/Debug/netcoreapp3.1/Projet-pokedex.csproj.CoreCompileInputs.cache
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/obj/Debug/netcoreapp3.1/Projet-pokedex.dll
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/obj/Debug/netcoreapp3.1/Projet-pokedex.pdb
+/Users/nicolaslefebvre/Projects/Projet-pockedex/Projet-pockedex/obj/Debug/netcoreapp3.1/Projet-pokedex.genruntimeconfig.cache
